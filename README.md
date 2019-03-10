@@ -1,6 +1,6 @@
-## ECE250 (Algorithms & Data Structures)
+# ECE250 (Algorithms & Data Structures)
 
-** Lab Projects for ECE250 Fall 2018 - University of Waterloo **  
+**Lab Projects for ECE250 Fall 2018 - University of Waterloo**  
 *All projects are written in C++*
 
 
